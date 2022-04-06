@@ -1,4 +1,7 @@
 # CF-induction-guesser
+This github repository provides the code used to find sequences <img src="https://latex.codecogs.com/svg.image?c_k" title="https://latex.codecogs.com/svg.image?c_k" /> and <img src="https://latex.codecogs.com/svg.image?d_k" title="https://latex.codecogs.com/svg.image?d_k" /> which, in turn, are used to find series representations for certain PCF's as described in [[1]](#1). These can be evaluated by using other code - also provided in this repository.
+
+## cndn-finder
 A jupyter notebook showcasing 3 simple methods for guessing polynomial sequences 
 <img src="https://latex.codecogs.com/svg.image?c_k" title="https://latex.codecogs.com/svg.image?c_k" /> and <img src="https://latex.codecogs.com/svg.image?d_k" title="https://latex.codecogs.com/svg.image?d_k" /> such that:
 
