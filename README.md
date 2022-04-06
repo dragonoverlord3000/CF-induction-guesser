@@ -1,9 +1,11 @@
 # CF-induction-guesser
 A jupyter notebook showcasing 3 simple methods for guessing polynomial sequences 
 $c_k$ and $d_k$ such that:
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;a_k &= c_k + d_{k+1} \\ b_k &= -c_k d_k" title="a_k &= c_k + d_{k+1} \\b_k &= -c_k d_k" />
+
 \begin{align*}
     a_k &= c_k + d_{k+1} \\
-    b_k = -c_k d_k
+    b_k &= -c_k d_k
 \end{align*}
 Where $a_k$ and $b_k$ are integer sequences defining a generalized PCF in the 
 following way:
